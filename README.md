@@ -17,10 +17,8 @@ Alongside academic research, I actively work on **quantum computing simulations*
 ## 🔬 Research Interests
 
 - Superconductivity & Vortex Matter  
-- Ginzburg–Landau & Time-Dependent GL Models  
-- Numerical Simulation of PDEs  
-- Quantum Teleportation & Quantum Noise Models  
-- Scientific Visualization & Data Analysis  
+- Quantum Computing  
+- Astrophysics 
 
 ---
 
@@ -57,7 +55,7 @@ Web-based application to generate structured testimonials for BSc & MSc students
 
 **Founder & Physics Educator**  
 📍 AIMERS Coaching (2019 – Present)  
-- Teaching Physics to HSC & undergraduate students  
+- Teaching Physics to HSC students  
 - Concept-based learning & exam strategy  
 - Interactive and technology-assisted instruction  
 
@@ -65,15 +63,6 @@ Web-based application to generate structured testimonials for BSc & MSc students
 📍 Jagannath University (2024 – 2025)  
 - Magnetic vortex stabilization in superconducting STM tips  
 - Artificial pinning site analysis using GL theory  
-
----
-
-## 🌱 Currently Learning & Working On
-
-- Advanced numerical simulation in condensed matter physics  
-- Quantum information protocols under decoherence  
-- Converting legacy **Fortran** research codes into **Python**  
-- Building research-oriented open-source tools  
 
 ---
 
