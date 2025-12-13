@@ -74,6 +74,4 @@ Web-based application to generate structured testimonials for BSc & MSc students
 
 ---
 
-> *“Physics is not just equations — it is a way of thinking.”*  
-
-⭐ Feel free to explore my repositories and connect for research or collaboration.
+> *“Physics is not just equations, it is a way of thinking.”*  
