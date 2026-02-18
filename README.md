@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tanvir Hassan
 
 🎓 **Physicist | Researcher | Educator | Programmer**  
-🔬 Superconductivity • Vortex Physics • Quantum Information  
+🔬 Superconductivity • Quantum Information  
 💻 Scientific Computing • Python • Fortran • Data Visualization  
 
 ---
@@ -17,8 +17,7 @@ Alongside academic research, I actively work on **quantum computing simulations*
 ## 🔬 Research Interests
 
 - Superconductivity & Vortex Matter  
-- Quantum Computing  
-- Astrophysics 
+- Quantum Computing 
 
 ---
 
@@ -39,17 +38,6 @@ Alongside academic research, I actively work on **quantum computing simulations*
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 Quantum Teleportation Simulation
-Simulation of quantum teleportation and GHZ-based secret sharing under realistic noise models using **Qiskit** and **Python**.  
-🔗 https://github.com/tanvir6307/py-quantum-teleportation
-
-### 🔹 Physics Testimonial Generator
-Web-based application to generate structured testimonials for BSc & MSc students in the Physics Department, Jagannath University.  
-🔗 https://github.com/tanvir6307/testimonial
-
----
 
 ## 🏫 Experience
 
