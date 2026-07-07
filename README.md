@@ -6,14 +6,6 @@
 
 ---
 
-## 🧠 About Me
-
-I am a Physics graduate from **Jagannath University, Dhaka**, with a strong background in **theoretical and computational physics**. My research focuses on **magnetic field response and vortex formation in superconductors**, particularly in **conical STM tips**, using **Ginzburg–Landau theory**.
-
-Alongside academic research, I actively work on **quantum computing simulations**, **numerical modeling**, and **scientific data visualization**. I also founded **AIMERS Coaching**, where I have been teaching Physics since 2019, helping students build strong conceptual understanding and problem-solving skills.
-
----
-
 ## 🔬 Research Interests
 
 - Superconductivity & Vortex Matter  
@@ -35,22 +27,6 @@ Alongside academic research, I actively work on **quantum computing simulations*
 - Statistical & Data Analysis
 - Computational Modeling
 - Scientific Writing (LaTeX)
-
----
-
-
-## 🏫 Experience
-
-**Founder & Physics Educator**  
-📍 AIMERS Coaching (2019 – Present)  
-- Teaching Physics to HSC students  
-- Concept-based learning & exam strategy  
-- Interactive and technology-assisted instruction  
-
-**Research Assistant**  
-📍 Jagannath University (2024 – 2025)  
-- Magnetic vortex stabilization in superconducting STM tips  
-- Artificial pinning site analysis using GL theory  
 
 ---
 
